@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Fanju
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Fanju	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+getHum		KEYWORD2
+getTemp		KEYWORD2
+getBatOK	KEYWORD2
+getChannel	KEYWORD2
+getRollingCode	KEYWORD2
+getTxReq	KEYWORD2
+read		KEYWORD2
+
+
