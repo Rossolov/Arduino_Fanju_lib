@@ -26,6 +26,7 @@ void loop() {
   if(myFanju.read()){
     if(!sensorPaired){
         if(myFanju.getTxReq()){  //Check if TX button was pressed
+          sensorPaired = true;
           rollingCode = myFanju.getRollingCode();
           channel = myFanju.getChannel();
           Serial.print("Sensor paired. Rolling code - 0x");
