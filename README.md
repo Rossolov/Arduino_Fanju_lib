@@ -1,6 +1,6 @@
 # Arduino_Fanju_lib
 
-This arduino library used for cheap chineese FanJu sensors. 
+This arduino library used for cheap chineese FanJu sensors for weather stations FJ3378/74/79C/65/89. 
 Library based on https://github.com/adaasch/fanju_decoder_arduino_pi.
 
 Main feature is software filter for spikes rf noise. This is significally inreased distance to sensor.
